@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ae-backend-xml-java-snippets.iml" filepath="$PROJECT_DIR$/.idea/modules/ae-backend-xml-java-snippets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ae-backend-xml-java-snippets_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ae-backend-xml-java-snippets_main.iml" group="ae-backend-xml-java-snippets" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ae-backend-xml-java-snippets_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ae-backend-xml-java-snippets_test.iml" group="ae-backend-xml-java-snippets" />
+    </modules>
+  </component>
+</project>
